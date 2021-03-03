@@ -2,5 +2,6 @@ img#icon
 {
 width: 10px;
 height: 10px;
+padding-right: 2px;
 /* default: 16 x 16 */
 }
