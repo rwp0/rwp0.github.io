@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rwp0
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rwp0.github.io
+  * I am rwp0 (https://keybase.io/rwp0) on keybase.
+  * I have a public key ASDTknqXv0a984jhEsPJupx-yco9EN4lSAUELg--dlvdjgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d3927a97bf46bdf388e112c3c9ba9c7ec9ca3d10de254805042e0fbe765bdd8e0a",
+      "host": "keybase.io",
+      "kid": "0120d3927a97bf46bdf388e112c3c9ba9c7ec9ca3d10de254805042e0fbe765bdd8e0a",
+      "uid": "f381e33d307e28479fd7866f2b303319",
+      "username": "rwp0"
+    },
+    "merkle_root": {
+      "ctime": 1664294893,
+      "hash": "ece956f8bf466778cf9e5a691b2cbff58e7882bc878c0eca3fff9df4075df3cdd5d7f3ef7b19c05b20349839f79a835c1330616509da7d87f8a7eec464675888",
+      "hash_meta": "c62cf7385e4515ed01151a216b2919d752540172dd653c6592cf5d11a392dd2d",
+      "seqno": 23268619
+    },
+    "service": {
+      "entropy": "kCU8ZBlwZJarxXm+Pnh36epG",
+      "hostname": "rwp0.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1664294924,
+  "expire_in": 504576000,
+  "prev": "6e74e4a0e792387d6c24d5c1d350520a07762dc38b79c57db7d4d40c751db4ae",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg05J6l79GvfOI4RLDybqcfsnKPRDeJUgFBC4PvnZb3Y4Kp3BheWxvYWTESpcCEMQgbnTkoOeSOH1sJNXB01BSCgd2LcOLecV9t9TUDHUdtK7EINa2DKr8Z+yk7MSK6T+wFlfzBTHY1EJ4ip3q4fsRBpbUAgHCo3NpZ8RAwVYLoipDeAAyL0uBx69I0MI9sp+WQjwlPFw2sgr8F3vQxp0tKG4J+F8umMKU9CLSt52ZHAk6H0IoWQFqTuo/A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC2+ozLDA5lEUPiTZSMEq/lgw1HKBZN9suJkLJobL12fo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rwp0
+
+==================================================================
